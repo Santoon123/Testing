@@ -4,7 +4,6 @@ import java.util.*;
 public class ECommerceSearch {
       public static void main(String[] args) {
             Product[] products = {
-                        new Product(101, "Laptop", "Electronics"),
                         new Product(102, "Shoes", "Footwear"),
                         new Product(103, "Watch", "Accessories"),
                         new Product(104, "Phone", "Electronics"),
