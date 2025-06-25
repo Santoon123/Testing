@@ -1,1 +1,2 @@
-Hello, this is Account B's conflicting change.
+
+Hello, this is Account A's change.
