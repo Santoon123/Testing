@@ -1,1 +1,1 @@
-Hello from Account B - Updated the line 1
+Hello, this is Account B's conflicting change.
