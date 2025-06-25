@@ -5,7 +5,7 @@ public class ECommerceSearch {
       public static void main(String[] args) {
             Product[] products = {
                         new Product(100000, "Shoes", "Footwear"),
-                        new Product(103, "Watch", "Accessories"),
+                        new Product(100003, "Watch", "Accessories"),
                         new Product(104, "Phone", "Electronics"),
                         new Product(105, "Bag", "Fashion")
             };
